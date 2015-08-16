@@ -8,4 +8,5 @@ I developed this turn-based space shooter game to implement A* pathfinding algor
 - select the number of asteroids (obstacles),
 - select the number of hit points.
 
+Video: https://www.youtube.com/watch?v=c88LQrmpAas
 Enjoy! 
